@@ -1,6 +1,6 @@
 # 📸 JANG SUNG WOO
 
-궁금한 것은 직접 해보고, 완성한 것은 이해하려 노력하는 예비 개발자 장성우입니다!
+궁금한 것은 직접 도전하고, 완성한 것은 이해하려 노력하는 예비 개발자 장성우입니다!
 
 ---
 
@@ -28,18 +28,18 @@
 </div>
 
 
-## ⚡️ Others
+## ⚡️Others
 
 <div align=center>
 
 <a href="https://instagram.com/lasbe_">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/lasbe_/"
+        src="http://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&link=https://instagram.com/lasbe_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://lasbe.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=TV Time&link=https://lasbe.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://lasbe.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
