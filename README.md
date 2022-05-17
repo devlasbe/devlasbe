@@ -1,4 +1,4 @@
-# 📸 JANG SUNG WOO
+# 📸 JANG SUNG WOO [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLasBe-code&count_bg=%23FF7600&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 궁금한 것은 직접 도전하고, 완성한 것은 이해하려 노력하는 예비 개발자 장성우입니다!
 
@@ -6,7 +6,7 @@
 
 <div align=center>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLasBe-code&count_bg=%23FF7600&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
  
 [![LasBe-code's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LasBe-code&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LasBe-code)
  
