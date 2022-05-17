@@ -30,13 +30,17 @@
 
 ## ⚡️ Others
 
-<a href="https://instagram.com/alpox.dev">
+<div align=center>
+
+<a href="https://instagram.com/lasbe_">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/lasbe_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://lasbe.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=TV Time&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tech%20Blog-black?style=flat&logo=TV Time&link=https://lasbe.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+</div>
