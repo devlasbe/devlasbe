@@ -31,15 +31,14 @@
 
 <div align=center>
 
-<a href="https://instagram.com/lasbe_">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&link=https://instagram.com/lasbe_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://lasbe.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://lasbe.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://lasbe.tistory.com/"/>
+</a>
+ 
+<a href="https://instagram.com/lasbe_">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&link=https://instagram.com/lasbe_/"/>
 </a>
 
 </div>
