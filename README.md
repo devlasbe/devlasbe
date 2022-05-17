@@ -37,6 +37,6 @@
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=TV Time&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tech%20Blog-ffc107?style=flat&logo=TV Time&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
