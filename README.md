@@ -15,11 +15,11 @@
 
 <div align=center>
  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1877f2.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1877f2?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?&style=for-the-badge&logo=React&logoColor=white)
 ![React-Native](https://img.shields.io/badge/ReactNative-61DBFB?&style=for-the-badge&logo=React&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?&style=for-the-badge&logo=Electron&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
