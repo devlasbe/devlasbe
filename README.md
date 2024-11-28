@@ -36,10 +36,6 @@
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-black.svg?style=for-the-badge&logo=TV Time&link=https://lasbe.tistory.com/"/>
 </a>
- 
-<a href="https://instagram.com/lasbe_">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&link=https://instagram.com/lasbe_/"/>
-</a>
+
 
 </div>
