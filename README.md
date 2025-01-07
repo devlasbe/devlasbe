@@ -6,8 +6,8 @@
 
 <div align=center>
 
-[![LasBe-code's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LasBe-code&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LasBe-code)
-![LasBe-code's github stats](https://github-readme-stats.vercel.app/api?username=LasBe-code&show_icons=true)
+[![devlasbe github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devlasbe&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/LasBe-code)
+[![devlasbe github stats](https://github-readme-stats.vercel.app/api?username=devlasbe&show_icons=true)
 
 </div>
 
