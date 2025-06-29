@@ -1,4 +1,4 @@
-# 📸 Sungwoo Jang [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLasBe-code&count_bg=%23FF7600&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 📸 Sungwoo Jang 
 
 넓고 빠르게 진화하는 생태계에 반해 프론트엔드 개발자가 된 장성우입니다.
 
